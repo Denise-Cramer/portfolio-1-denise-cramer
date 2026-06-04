@@ -50,3 +50,14 @@ body {
 #hero p {
     max-width: 800px;
 }
+
+#documents a {
+    display: inline-block;
+    margin-right: 10px;
+    margin-top: 10px;
+    padding: 10px 16px;
+    background-color: #333;
+    color: #ddd;
+    text-decoration: none;
+    border-radius: 6px;
+}
