@@ -7,14 +7,14 @@ body {
     background-color: #f4f4f4;
 }
 
-.project-card {
+.project {
     margin-bottom: 2rem;
     padding: 1.5rem;
     border: 1px solid #ddd;
     border-radius: 10px;
 }
 
-.project-card img {
+.project img {
     width: 100%;
     height: auto;
     max-width: 500px;
@@ -22,7 +22,7 @@ body {
     margin-bottom: 1rem;
 }
 
-.project-card a {
+.project a {
     display: inline-block;
     margin-right: 10px;
     margin-top: 10px;
