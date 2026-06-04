@@ -1,17 +1,18 @@
 body {
     font-family: Arial, sans-serif;
-    max-width: 1200px;
+    max-width: 1400px;
     margin: 0 auto;
     padding: 2rem;
     line-height: 1.6;
-    background-color: #f4f4f4;
+    background-color: #ffffff;
 }
 
 .project {
     margin-bottom: 2rem;
-    padding: 1.5rem;
-    border: 1px solid #ddd;
+    padding: 2.5rem;
+    border: 1px solid #ffffff;
     border-radius: 10px;
+    background-color: #dadaed;
 }
 
 .project img {
