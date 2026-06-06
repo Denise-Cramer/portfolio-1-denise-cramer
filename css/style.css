@@ -3,6 +3,7 @@ body {
     max-width: 1400px;
     margin: 0 auto;
     padding: 2rem;
+    font-size: 16px;
     line-height: 1.6;
     background-color: #ffffff;
 }
@@ -41,10 +42,16 @@ body {
 
 #hero {
     padding: 3rem 0;
+    font-size: 3rem;
+    text-align: center;
 }
 
 #hero h2 {
     font-size: 2rem;
+}
+
+#hero h3 {
+    font-size: 1.5rem;
 }
 
 #hero p {
